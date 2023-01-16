@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+section {
+    display: flex;
+    border-radius: 20px;
+    background-image: url(C:\Asifur-Rahman\my-image\pngtree-abstract-playful-portfolio-pink-memphis-image_593415.jpg);
+}
+
+h1 {
+    margin: 50px 5px;
+    padding-top: 20px;
+    width: 50;
+}
+
+div {
+    width: 50%;
+}
+
+#mono {
+    color: rgb(241, 239, 239);
+    background-color: rgb(195, 125, 152);
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+.asif-text {
+    padding: 30px 50px;
+    width: 50%;
+}
+
+.hire-button {
+    text-decoration: none;
+    text-align: center;
+    background-color: rgb(211, 144, 156);
+    padding: 10px 40px;
+    border-radius: 5px;
+    margin-top: 20px;
+    color: rgb(243, 255, 255);
+    box-sizing: border-box;
+    box-shadow: 5px 5px hsl(0, 64%, 92%);
+}
+
+.asif-image {
+    width: 30%;
+    padding-left: 50px;
+
+}
