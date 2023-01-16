@@ -5,8 +5,9 @@ body {
 
 section {
     display: flex;
-    border-radius: 20px;
-    background-image: url(my-image\pngtree-abstract-playful-portfolio-pink-memphis-image_593415.jpg);
+    margin-top: 30px;
+    padding: 70px 30px;
+    border-radius: 40px;
 }
 
 h1 {
@@ -29,6 +30,9 @@ div {
 .asif-text {
     padding: 30px 50px;
     width: 50%;
+    background-color: #fefafa;
+    border-radius: 20px 100px;
+    margin-left: 20px;
 }
 
 .hire-button {
